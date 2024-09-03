@@ -12,8 +12,7 @@
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
 # in		      India (Mumbai)
-# jp		      Japón (Tokyo)
-# sa		      Sudamérica (São Paulo)
+# jp		      Japón (Tokyo)# sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
 
